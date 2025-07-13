@@ -47,5 +47,8 @@ Works in all modern browsers including:
 - Firefox 55+
 - Safari 12+
 - Edge 79+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 Enjoy playing!
